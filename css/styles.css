@@ -210,7 +210,7 @@ section {
   height: auto;
 }
 
-#restaurants-list li h1 {
+#restaurants-list li h2 {
   color: #e07100;
   font-size: 1.2em;
   font-weight: 200;
@@ -477,7 +477,7 @@ header {
     min-width: 50%;
     height: auto;
   }
-  #restaurants-list li h1 {
+  #restaurants-list li h2 {
     float: right;
     color: #c05000;
     font-size: 1.2em;
@@ -641,7 +641,7 @@ header {
     padding: 15px 0 0 0;
   }
   nav h1 {
-    
+
     font-weight: bolder;
     letter-spacing: 10px;
   }
